@@ -2,7 +2,7 @@
 
 ### We're crafting tools to make developers' lives easy.
 
-- www.opengeometry.io
+- https://opengeometry.io
 
 <!--
 
