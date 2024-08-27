@@ -1,6 +1,6 @@
-## OpenGeometry
+![OpenGeometry](./opengeometryTextLogo.png)
 
-#### We're crafting tools to make developers' lives easy.
+### We're crafting tools to make developers' lives easy.
 
 - www.opengeometry.io
 
