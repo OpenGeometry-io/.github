@@ -1,6 +1,6 @@
 ![OpenGeometry](./opengeometryTextLogo.png)
 
-### We're crafting tools to make developers' lives easy.
+### Design Anything and Everthing
 
 - https://opengeometry.io
 
